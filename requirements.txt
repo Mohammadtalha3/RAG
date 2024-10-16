@@ -1,0 +1,17 @@
+Langchain_community
+sentence_transformers
+Langchain_core
+PyMuPDF
+faiss-cpu
+fastapi
+uvicorn
+pandas
+numpy 
+matplotlib
+redis
+streamlit
+fitz
+pytesseract
+tabula-py
+Pillow
+opencv-python-headless
